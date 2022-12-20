@@ -4,4 +4,4 @@ Cloud Developer working at [Sanoma Media Finland](https://www.sanoma.com/).
 
 ## Links
 
-- [@KimmoAhokas@mastodon.social](https://mastodon.social/@KimmoAhokas)
+- <a rel="me" href="https://mastodon.social/@KimmoAhokas">@KimmoAhokas@mastodon.social</a>
